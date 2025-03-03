@@ -1,4 +1,3 @@
-
 import streamlit as st
 #import numpy_financial as npf
 import pandas as pd
@@ -112,13 +111,6 @@ def initial_values(ltm_ebitda,entry_multiple,equity_pct):
                 "debt_percentage":debt_percentage
                  }
 
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar  2 19:31:53 2025
-
-@author: grego
-"""
 
 from operator import lt
 import streamlit as st
