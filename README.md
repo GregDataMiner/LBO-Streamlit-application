@@ -1,7 +1,7 @@
 # 📌 Business Acquisition Example LBO  
 **Modélisation d'un rachat d'entreprise via un LBO (Leverage Buyout) avec Streamlit**  
 
-##🔗 *[Accéder à l’application en ligne](https://lbo-application.streamlit.app/)*
+## 🔗 *[Accéder à l’application en ligne](https://lbo-application.streamlit.app/)*
 
 ---
 
