@@ -3,8 +3,7 @@
 
 ## 🔗 *[Accéder à l’application en ligne](https://lbo-application.streamlit.app/)*
 
-![vid1](images/vid1.gif)
-
+![LBO](https://github.com/GregDataMiner/LBO-Streamlit-application/blob/main/Images/vid1.gif)
 ---
 
 ## 📖 Présentation du projet  
